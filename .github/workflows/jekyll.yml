@@ -20,6 +20,10 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: pages-${{ github.run_id }}
+  cancel-in-progress: true
+
 jobs:
   # Build job
   build:
