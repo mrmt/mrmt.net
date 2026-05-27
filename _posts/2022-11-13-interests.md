@@ -44,6 +44,9 @@ img: 47085355314_00ba05473b_c.jpg
 
 - 生来ものづくりが好きなのと、自分がちょうど聴きたい音楽がもうなくなってしまったように感じられ、高校ぐらいからイギリス系シンセポップあたりの自分のツボに刺さるような音楽を打ち込んで作るようになりました。三十数年経ってもまた続いています。
   - [Sect Commune Official Site - Electronic Pop/Rock unit formed in 1987, Tokyo](https://sect-commune.com/)
+- 最近(2025〜)は、ノイズ・グリッチ・EBMなどの要素も取り入れた、より攻撃的な音楽も作っています。
+  - [metafictions.net - industrial / ebm / idm / glitch / experimental electronic](https://metafictions.net/)
+  - <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:640px;"><iframe src="https://www.youtube.com/embed/jqcMIBMjESo" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 - すきな作曲家
   - Brian Wilson, Henry Mancini, Martin L. Gore, Burt Bacharach
 - すきなプロデューサー/リミクサー
